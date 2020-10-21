@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[32,)"
+issueTrackerURL = "https://github.com/noeppi-noeppi/GoHome/issues"
+license = "Apache-2.0"
+
+[[mods]]
+modId = "gohome"
+version = "${file.jarVersion}"
+displayName = "GoHome"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/gohome"
+authors = "noeppi_noeppi"
+description = '''
+A simple /home mod
+'''
+
+[[dependencies.bongo]]
+modId = "forge"
+mandatory = true
+versionRange = "[32,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.bongo]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.16.1]"
+ordering = "NONE"
+side = "BOTH"

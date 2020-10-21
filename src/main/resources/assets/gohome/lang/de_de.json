@@ -1,0 +1,7 @@
+{
+  "gohome.success": "Du wurdest zu deinem Zuhause %s teleportiert.",
+  "gohome.notfound": "Du hast kein Zuhause mit dem Namen %s.",
+  "gohome.set": "Dein Zuhause mit dem Namen %s wurde gesetzt.",
+  "gohome.del": "Dein Zuhause mit dem Namen %s wurde gelöscht.",
+  "gohome.list": "Deine Heimatorte:"
+}
