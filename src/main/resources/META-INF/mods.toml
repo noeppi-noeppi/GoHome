@@ -8,6 +8,7 @@ modId = "gohome"
 version = "${file.jarVersion}"
 displayName = "GoHome"
 displayURL = "https://www.curseforge.com/minecraft/mc-mods/gohome"
+updateJSONURL = "https://assets.melanx.de/updates/gohome.json"
 authors = "noeppi_noeppi"
 description = '''
 A simple /home mod
